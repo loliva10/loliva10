@@ -2,6 +2,6 @@
 
 ##Luis Fernando Oliva
 - 📚 Cursando Desenvolvimento de Sistemas
-- 
+- 🎓 Certificado em Imersão em CiberSegurança e em AI-900
 - 🧐 Procuro novas oportunidades e experiências
 - 📌 Brazil, São Paulo
