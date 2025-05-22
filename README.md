@@ -2,5 +2,6 @@
 
 ##Luis Fernando Oliva
 - 📚 Cursando Desenvolvimento de Sistemas
+- 
 - 🧐 Procuro novas oportunidades e experiências
 - 📌 Brazil, São Paulo
