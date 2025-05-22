@@ -6,7 +6,7 @@
 🚀 Sobre mim
 
 - 📚 Cursando Desenvolvimento de Sistemas
-- 🎓 Certificado em Imersão em CiberSegurança e em AI-900
+- 🎓 Certificado de Imersão em CiberSegurança e em AI-900
 - 🔧 Atualmente trabalhando em projetos pessoais e aprimorando minhas habilidades
 - 📩 Como me encontrar: lfernandooliva@icloud.com
 -  🧐 Procuro novas oportunidades e experiências
