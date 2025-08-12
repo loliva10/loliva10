@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠 Tecnologias que já usei
+### 🛠 Tecnologias
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
@@ -36,15 +36,14 @@
 
 ---
 
-### 🧰 Ferramentas que uso
+### 🧰 Ferramentas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Tinkercad_Logo.svg" alt="Tinkercad" width="50" height="50" style="background:white; border-radius:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/>
 </p>
 
 ---
-  
+
 ⭐️ Obrigado por visitar meu perfil!
