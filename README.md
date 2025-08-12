@@ -11,7 +11,7 @@
 - 📚 Cursando **Desenvolvimento de Sistemas**
 - 🎓 Certificado de **Imersão em CiberSegurança** e **AI-900**
 - 🔧 Atualmente trabalhando em projetos pessoais e aprimorando minhas habilidades
-- 🧐 Procuro novas oportunidades e experiências
+- 🧐 Procurando novas oportunidades e experiências
 - 📌 **Localização:** São Paulo, Brasil
 
 ---
