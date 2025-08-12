@@ -40,10 +40,14 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Tinkercad_Logo.svg" alt="Tinkercad" width="50" height="50" style="background:white; border-radius:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Kali_Linux_Logo.svg" alt="Kali Linux" width="50" height="50" style="background:white; border-radius:8px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/VMware_logo.svg" alt="VMware" width="50" height="50" style="background:white; border-radius:8px;"/>
 </p>
 
 ---
-
+  
 ⭐️ Obrigado por visitar meu perfil!
