@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠 Tecnologias que já usei
+### 🛠 Tecnologias 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
@@ -36,7 +36,7 @@
 
 ---
 
-### 🧰 Ferramentas que uso
+### 🧰 Ferramentas 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
