@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisOliva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=luis%20fernando%20de%20sousa%20oliva%20%27s%20GitHub%20Stats" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisOliva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Luis%20Fernando%20de%20Sousa%20Oliva%20%27s%20GitHub%20Stats" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisOliva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Most%20Used%20Languages" height="150" alt="languages graph" />
 </div>
 
