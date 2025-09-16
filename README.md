@@ -25,7 +25,9 @@
 ---
 
 ### 🌐 Redes & Contatos  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lfernandooliva@icloud.com)
+[![Email](<a href="https://mail.google.com/mail/?view=cm&fs=1&to=maygussonato@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>)](mailto:lfernandooliva@icloud.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/l.foliva)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loliva10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-de-oliva-20a884383/)
